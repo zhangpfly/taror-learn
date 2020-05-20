@@ -10,7 +10,7 @@ Welcome to kuihuataror's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   Sphinx_GitHub_ReadtheDocs
 
 Indices and tables
 ==================
